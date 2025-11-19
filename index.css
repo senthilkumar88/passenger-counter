@@ -24,7 +24,10 @@ h2 {
     margin-top: 0;
     margin-bottom: 20px;
 }
-
+hr{
+    margin:10px 0;
+    max-width:80%;
+}
 button {
     border: 1px solid black;
     padding-top: 10px;
